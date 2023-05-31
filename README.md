@@ -4,4 +4,4 @@
 </p>
 
 ---
-I am a computer science and mathematics student at Wake Forest University. I love all things computer science! Specifically, software development, digital media, and frontend development. If you would like to learn more about any repo's you see, please reach out!
+I am a Wake Forest University Computer Science graduate and a dedicated Software Engineer! I love to create high-quality solutions and employ my expertise in C/C++, Java, Python, JavaScript, Next.js, and more!
