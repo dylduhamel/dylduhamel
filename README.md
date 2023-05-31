@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hey! I'm Dylan Duhamel</h3>
 <p align="center">
-  <!<a href="https://www.dylanduhamel.com">Website</a>>
+
 </p>
 
 ---
