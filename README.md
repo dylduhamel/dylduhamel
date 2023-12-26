@@ -7,7 +7,7 @@
 
 I am a Wake Forest University Computer Science graduate and a dedicated Software Engineer! I love to create high-quality solutions and employ my expertise in C/C++, Java, Python, JavaScript, Next.js, and more!
 
-I am deeply interested in Linux systems as well. I enjoy delving into the intricacies of Linux/UNIX, especially working with embedded Linux machines. I am currently learning about cellular automaton and displaying the generations on LED matrices with ESP32 boards.
+I am deeply interested in Linux systems as well. I especially enjoy working with embedded Linux machines. I am currently learning about cellular automaton and displaying the generations on LED matrices with ESP32 boards.
 
 ---
 
